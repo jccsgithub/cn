@@ -78,10 +78,6 @@ items:
     href: Application-Of-Secure-Gateway-Service-Clause.md
   - name: 应用安全网关服务等级协议（SLA）
     href: Application-Of-Secure-Gateway-Service-Level-Protocol-SLA.md
-  - name: API网关服务条款
-    href: Api-Gateway-Terms-Of-Service
-  - name: API网关服务等级协议（SLA）
-    href: Api-Gateway-Level-Agreements-SLA
   - name: 云物理服务器服务协议
     href: Cloud-Physics-Server-Service-Clause.md
   - name: 云物理服务器服务等级协议（SLA）
@@ -130,10 +126,6 @@ items:
     href: Queue-Service-Terms-Of-Service-SLA.md
   - name: 智臻链BaaS平台服务条款
     href: JD-Blockchain-Open-Platform.md
-  - name: 物联网中心服务条款
-    href: IoT-Hub-Terms-Of-Service.md
-  - name: 物联网中心服务等级协议（SLA）
-    href: IoT-Hub-Level-Agreements-SLA.md   
   - name: 物联网协议适配服务条款
     href: IoT-Protocol-Adaptor-Terms-Of-Service.md   
   - name: 物联网协议适配服务等级协议(SLA)
